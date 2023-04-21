@@ -29,4 +29,4 @@ Homomorphic encryption is a computationally expensive technique and is not suita
 
 # Sources
 
-(Sefik Ilkin Serengil)[https://sefiks.com/2021/12/01/homomorphic-facial-recognition-with-tenseal/]
+[Sefik Ilkin Serengil](https://sefiks.com/2021/12/01/homomorphic-facial-recognition-with-tenseal/)
